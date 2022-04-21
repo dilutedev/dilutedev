@@ -1,17 +1,33 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">Hi 👋, I'm Isaac</h3>
+</p>
+<p align="center">
+    <a href="https://idilute.tech">About Me</a>
+    ·
+    <a href="mailto:dev@idilute.tech">Email</a>
+    ·
+    <a href="https://twitter.com/dilutedev">Twitter</a>
+</p>
+<p align="center">
+  <h4 align="center">BackEnd Developer from Lagos, Nigeria</h4>
+</p>
+
+<!-- <p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=andyias&color=blue&style=flat-square" alt="isaac profile views" />
+</p> -->
+
+
+- 🔭 I’m currently working on **[Movie Snatch](https://idilute.tech#movie-snatch/)**.
+
+- 🌱 I’m currently learning **RabbitMQ**.
+
+- 💬 Ask me about **GraphQL, Nodejs, Expressjs, APIs, WebCrawling/Scraping**.
+
+- 📫 How to reach me: [twitter](https://twitter.com/dilutedev)
+
+- 😄 Pronouns: He/Him/His
 
 <!--
-**andyias/andyias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=andyias&show_icons=true&theme=highcontrast&count_private=true" width="400">
