@@ -17,7 +17,7 @@
 </p> -->
 
 
-- 🔭 I’m currently working on **[Movie Snatch](https://idilute.tech#movie-snatch/)**.
+- 🔭 I’m currently working on **[Movie Snatch](https://dilute.dev/projects#movie-snatch)**.
 
 - 🌱 I’m currently learning **RabbitMQ, Prisma**.
 
