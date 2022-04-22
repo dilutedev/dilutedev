@@ -2,9 +2,9 @@
   <h3 align="center">Hi 👋, I'm Isaac</h3>
 </p>
 <p align="center">
-    <a href="https://idilute.tech">About Me</a>
+    <a href="https://dilute.dev">About Me</a>
     ·
-    <a href="mailto:dev@idilute.tech">Email</a>
+    <a href="mailto:isaac@dilute.dev">Email</a>
     ·
     <a href="https://twitter.com/dilutedev">Twitter</a>
 </p>
@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on **[Movie Snatch](https://idilute.tech#movie-snatch/)**.
 
-- 🌱 I’m currently learning **RabbitMQ**.
+- 🌱 I’m currently learning **RabbitMQ, Prisma**.
 
-- 💬 Ask me about **GraphQL, Nodejs, Expressjs, APIs, WebCrawling/Scraping**.
+- 💬 Ask me about **GraphQL, Nodejs, Python, Expressjs, APIs, WebCrawling/Scraping**.
 
 - 📫 How to reach me: [twitter](https://twitter.com/dilutedev)
 
