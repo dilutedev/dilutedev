@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **[Movie Snatch](https://dilute.dev/projects#movie-snatch)**.
 
-- 🌱 I’m currently learning **RabbitMQ, Prisma**.
+- 🌱 I’m currently learning **RabbitMQ**.
 
 - 👯 Open to collaborations
 
