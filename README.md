@@ -154,6 +154,15 @@
       />
       <br /><strong>Docker</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://playwright.dev/img/playwright-logo.svg"
+        width="48"
+        height="48"
+        alt="Playwright"
+      />
+      <br /><strong>Playwright</strong>
+    </td>
   </tr>
 </table>
 <br >
