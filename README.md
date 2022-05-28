@@ -24,7 +24,7 @@
 
 - 👯 Open to collaborations
 
-- 💬 Ask me about **GraphQL, Nodejs, Python, Expressjs, APIs, WebCrawling/Scraping**.
+- 💬 Ask me about **GraphQL, JavaScript, TypeScript, Python, Expressjs, APIs, WebCrawling/Scraping**.
 
 - 📫 How to reach me: [twitter](https://twitter.com/dilutedev)
 
