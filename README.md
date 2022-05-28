@@ -164,5 +164,15 @@
       <br /><strong>Playwright</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static-00.iconduck.com/assets.00/fastify-icon-256x164-avoe5y6g.png"
+        width="48"
+        height="48"
+        alt="Fastify"
+      />
+      <br /><strong>Fastify</strong>
+    </td>
 </table>
 <br >
