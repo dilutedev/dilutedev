@@ -12,7 +12,6 @@
   <h4 align="center">BackEnd Developer from Lagos, Nigeria</h4>
 </p>
 
-**[Request  Access to Private Repositories(For Employers)](https://www.dilute.dev/contact)**
 <!-- <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=andyias&color=blue&style=flat-square" alt="isaac profile views" />
 </p> -->
