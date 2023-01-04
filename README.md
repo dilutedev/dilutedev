@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on **[Movie Snatch](https://dilute.dev/projects#movie-snatch)**.
 
-- 🌱 I’m currently learning **NestJS**.
+- 🌱 I’m currently learning **GRPC**.
 
 - 👯 Open to collaborations
 
-- 💬 Ask me about **GraphQL, JavaScript, TypeScript, Python, Expressjs, APIs, WebCrawling/Scraping**.
+- 💬 Ask me about **Golang, TypeScript, Python, WebCrawling/Scraping**.
 
 - 📫 How to reach me: [twitter](https://twitter.com/dilutedev)
 
@@ -34,6 +34,15 @@
 ### Languages and Tools:
 <table>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+        width="48"
+        height="48"
+        alt="Golang"
+      />
+      <br /><strong>Golang</strong>
+      </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
