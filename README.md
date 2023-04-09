@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on **[Movie Snatch](https://dilute.dev/projects#movie-snatch)**.
 
-- 🌱 I’m currently learning **GRPC**.
+- 🌱 I’m currently learning **Swift**.
 
 - 👯 Open to collaborations
 
-- 💬 Ask me about **Golang, TypeScript, Python, WebCrawling/Scraping**.
+- 💬 Ask me about **Golang, TypeScript, Python, Reverse Engineering**.
 
 - 📫 How to reach me: [twitter](https://twitter.com/dilutedev)
 
