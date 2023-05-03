@@ -19,8 +19,6 @@
 
 - 🔭 I’m currently working on **[Movie Snatch](https://dilute.dev/projects#movie-snatch)**.
 
-- 🌱 I’m currently learning **Swift**.
-
 - 👯 Open to collaborations
 
 - 💬 Ask me about **Golang, TypeScript, Python, Reverse Engineering**.
