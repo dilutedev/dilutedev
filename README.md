@@ -1,20 +1,22 @@
-<p align="center">
-  <h3 align="center">Hi 👋, I'm Isaac</h3>
-</p>
-<p align="center">
-    <a href="https://dilute.dev">About Me</a>
-    ·
-    <a href="mailto:isaac@dilute.dev">Email</a>
-</p>
-<p align="center">
-  <h4 align="center">The Backend Dev</h4>
-</p>
+# 🧠 dilutedev
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=dilutedev&color=blue&style=flat-square" alt="isaac profile views" />
-</p>
+> web-focused reverse engineer  
+> extractor of forbidden data  
+> builder of stealthy, useful things
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilutedev&theme=onedark" alt="yczar" /></a> </p>
+I reverse engineer modern web apps to uncover undocumented APIs, bypass client-side restrictions, and extract data at scale. My specialty is in browser-based platforms, single-page applications, and automation-resistant systems.
 
-<p align="left"> <a href="https://twitter.com/dilutedev" target="blank"><img src="https://img.shields.io/twitter/follow/dilutedev?logo=twitter&style=for-the-badge" alt="dilutedev" /></a> </p>
+### 🔬 Featured Project
+- [`Reverse Engineering StockX`](https://dilutedev.vercel.app/projects/stockx-re)  
+  Rebuilt internal GraphQL queries to unlock full sneaker market history from a locked-down frontend.
 
+### 🛠 Tools
+- [`xhr-sniper`](https://dilutedev.vercel.app/tools/xhr-sniper): Proxy + overlay for inspecting SPA traffic.
+- [`graphql-recon`](https://dilutedev.vercel.app/tools/graphql-recon): Reconstruct GraphQL schemas from browser dumps.
+
+### 📬 Contact
+- [`Reach me here`](https://dilutedev.vercel.app/contact)
+
+---
+
+<sub>curious systems, elegant exploits, intentional builds.</sub>
